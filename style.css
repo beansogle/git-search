@@ -1,0 +1,22 @@
+/* SHOWCASE
+#showcase {
+  min-height: 400px;
+  background:url('../images/image02.jpg') ;
+  text-align: center;
+  color: #ffffff;
+
+}
+*/
+
+.avatar {
+  width:100%
+}
+
+h1 {
+  text-align: center;
+
+}
+
+p {
+  text-align: center;
+}
